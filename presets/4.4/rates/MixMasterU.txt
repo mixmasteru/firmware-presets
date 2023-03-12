@@ -5,7 +5,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: mixmasteru freestyle
 #$ AUTHOR: MixMasterU
-#$ DESCRIPTION: Freestyle rates
+#$ DESCRIPTION: Freestyle rates 1148 deg/s
 #$ INCLUDE: presets/4.4/rates/defaults.txt
 
 set rates_type = BETAFLIGHT
