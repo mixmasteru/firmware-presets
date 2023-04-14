@@ -158,6 +158,7 @@
       "BMSThomas",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
+      "Davide FPV (Davide Angeletti)",
       "Directory",
       "Evan Turner (Headsup)",
       "Feisar",
@@ -178,6 +179,7 @@
       "MrAlucardDante",
       "NemesisXB",
       "Sjoer van der Ploeg",
+      "Stingers Swarm",
       "Sugar K",
       "sugarK",
       "SupaflyFPV",
@@ -245,6 +247,7 @@
       "analog",
       "AOS",
       "AOS T3",
+      "Apex",
       "Audio TBS",
       "AutoSelect",
       "aux",
@@ -275,6 +278,8 @@
       "CRSF",
       "ctzsnooze",
       "CTZsoonze",
+      "davide",
+      "davide fpv",
       "DDC",
       "default",
       "defaults",
@@ -328,6 +333,7 @@
       "IllusionFpv",
       "immersion",
       "immersionRC",
+      "ImpulseRC",
       "IRC",
       "IRC Tramp",
       "justice",
@@ -424,6 +430,7 @@
       "Spec",
       "speedybee",
       "stats",
+      "StingersSwarm",
       "Street",
       "Street League",
       "StreetLeague",
@@ -1351,6 +1358,24 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.3/rates/StingersSwarm.txt",
+      "hash": "e2456a32a7a47d63f9d737fdb100dc2ee28a472ab508325d0334195d6c854ade",
+      "title": "Stingers Swarm freestyle rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "youtube",
+        "StingersSwarm",
+        "freestyle"
+      ],
+      "author": "Stingers Swarm",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.3/rates/SugarK.txt",
       "hash": "a5a4175752f45771b3b7f59730ae9cc5580a00624cd9776610d2cabd237aed86",
       "title": "Sugar k rates",
@@ -1682,7 +1707,7 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/generic/1000hz_race.txt",
-      "hash": "478015dc30f0253c5afe0386a5dfcd6de804d74707b3bf55243005407e22a7d6",
+      "hash": "fbfada94dd59cb0581bd7725a9bf497175e03cbe5fcc504f88ae4870874ec740",
       "title": "Generic 1000z Race",
       "firmware_version": [
         "4.3",
@@ -1696,7 +1721,8 @@
         "rc",
         "rx",
         "link",
-        "smoothing"
+        "smoothing",
+        "ELRS"
       ],
       "author": "Sugar K",
       "priority": 0
@@ -2452,13 +2478,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_3_4_Inch_EasyTune.txt",
-      "hash": "f03df1b8c9aed46f315c14bc6a077e0fd825a6f4ecb21ad229a43785054d0a1a",
+      "hash": "6095fdcff6b273154cd04a66205dcc60fd1105fbd10f45ea88d09c619001137c",
       "title": "SupaflyFPV Freestyle 3/4 Inch",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -2475,13 +2501,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "a76253855b13e203b60c93663396eff04cad5a7bda8df534b4193a04ab9c9ad2",
+      "hash": "485f2830ca8b3462ebb89d38921c4297b660a29212cf708338004d599d96134e",
       "title": "SupaflyFPV Freestyle 5 Inch",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -2496,13 +2522,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "fd58952c94b2294685967c6905592db0f523c70ca0b49468a7f2f9b191ac7faf",
+      "hash": "78c734d869eb39cf6a22bb2052d43fdc3446b5feca33f62e67fb75ca73c7b3dc",
       "title": "SupaflyFPV Freestyle 6 Inch",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -2515,13 +2541,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "76df74f531817e5fc2602f80680978983cec47ad0325939bc928701cee4409cb",
+      "hash": "c4c0441183cd683ee9ddb780c206dc57ca3e133b9600e0f580ea853be13a6de2",
       "title": "SupaflyFPV Freestyle 7 Inch",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -2895,13 +2921,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_AOS_35_tune_filters.txt",
-      "hash": "0dd026ca9f1a4eaa24c758f4c1b3840401a4fb4e6ce3f5ed617fc42da23c352d",
+      "hash": "6873908b46d271e204c9f78acf4892ef1ec78eb6d1c4637354cafbaa8579f73f",
       "title": "AOS 3.5 V1 4s Tune | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "AOS",
         "4s",
@@ -2914,13 +2940,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_Digipick_braced.txt",
-      "hash": "16897a988ba9317a6b02beb81b3c9b5042aa4e3eee00187e37c54738502980e4",
+      "hash": "dc5f0a91884f4b4d70cc0b9696f921024f2d0b21241c68dd666a2b7469447c8a",
       "title": "Braced Toothpick/Digipick 3s/4s | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle TP3",
         "Digipick",
@@ -2937,13 +2963,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_FFVCycle_Incisor_PT5_tune_filters.txt",
-      "hash": "843d79c8635d2ed5eddab912bb7aeff174faf6619321c110f19b5dc37930e884",
+      "hash": "2557231920b0c8ebd932477bb59f714beec9039d97cc50975c46dd61920b70ad",
       "title": "FPVCycle Incisor/Prototype 5 6s Tune | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle",
         "5 inch",
@@ -2959,13 +2985,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_FPVCycle_Sonicare_tune_filters.txt",
-      "hash": "687d0579012fe8e2bd5bb1c5a6eb4f7ef9a9f2b02566a32eb304c6566b19ce89",
+      "hash": "46bfe57f0ce647c32042d9f7d15803324e8d7da3e1d30b1d655fd22623bb284c",
       "title": "FPVCycle Sonicare 6s Tune | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle"
       ],
@@ -2975,13 +3001,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/mouseFPV_toothpick3_3s.txt",
-      "hash": "385d6c89bd737aaf3c56ff5312443b41e4a11d9887b8b23d47d1cf420a04e5d2",
+      "hash": "9a8f721f3e1334bdbba6133ee9da0c23bfa9cfd457e2e2bf49e4a52cbe4013fa",
       "title": "FPVCycle Toothpick 3 3s | mouseFPV",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle TP3",
         "Toothpick",
@@ -3691,6 +3717,27 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/rates/DavideFPVFreeStyle.txt",
+      "hash": "49d062988bc8fb428ec542d3649eda1f08b309edf773536cef317c958d893185",
+      "title": "Davide FPV Rates for Freestyle with Cinematic Option",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "davide fpv",
+        "davide",
+        "rates",
+        "freestyle",
+        "hd",
+        "cinematic"
+      ],
+      "author": "Davide FPV (Davide Angeletti)",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.4/rates/MixMasterU.txt",
       "hash": "d574569af1ca176970e8e161c15d5b04dc522dc2fdc88684436ecebf0f53a4ce",
       "title": "MixMasterU",
@@ -3921,13 +3968,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/karate/karate_race.txt",
-      "hash": "41b7099ef1346f3b3bfe4781b168ef878d113111c834e461c496ad9ae3c7a9cd",
+      "hash": "9d322ea082807ee0a02a914c9a2d375185d7685b28225897d392db013e1565e4",
       "title": "Karate Race 6s 5\"",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "karate",
         "6S",
@@ -3945,13 +3992,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/karate/karate_race_lite.txt",
-      "hash": "b57c81f79c7a6c7c08fa8a6e7ff27cd009a262583b9e2ca1beb33e71998c88a4",
+      "hash": "b7513a4910fa102c846c1f535855014d3ee4cc65aba45aa44cb378aac703eaf0",
       "title": "Karate 'Viper Lite' Race  5\"",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "karate",
         "race",
@@ -4020,13 +4067,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_AOS_35_tune_filters.txt",
-      "hash": "4c4e6364ad0c3b0f09749b522671b2eee28a995cb0f91dc062a56b2375cce58c",
+      "hash": "be7d760872b99568192cba01c8e0175c59a50d74f8d82a98fc975398974633fd",
       "title": "AOS 3.5 V1 4s Tune | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "AOS",
         "4s",
@@ -4039,13 +4086,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_Digipick_braced.txt",
-      "hash": "091f9d21ee8b1c5854743918cb1453390253b8550b266d669fe4f56186a9a6c5",
+      "hash": "293fc19e8651996f0d1d3c0c26f8622828ada206211d9c2f18f0b136f1f1bdc8",
       "title": "Braced Toothpick/Digipick 3s/4s | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle TP3",
         "Digipick",
@@ -4062,13 +4109,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_FFVCycle_Incisor_PT5_tune_filters.txt",
-      "hash": "a14311501d08a291a2db1c19be804e0ed40849e877ca857617d2d98629bf6e12",
+      "hash": "5b334a9e4495c522069414c1bf7d91c9b996dac25ecd750ec6b2d839d6e0bed4",
       "title": "FPVCycle Incisor/Prototype 5 6s Tune | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle",
         "5 inch",
@@ -4084,13 +4131,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_FPVCycle_Sonicare_tune_filters.txt",
-      "hash": "e21a8ed4a1d79080a71ee98943f00aee2e5b2f62d284e9abfdb8b32ae40771ad",
+      "hash": "5efcc6c3efd67f2a94383d9d73ef34498daa3cc779e9ad2e0fbba75751a257bb",
       "title": "FPVCycle Sonicare 6s Tune | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle"
       ],
@@ -4099,14 +4146,34 @@
       "priority": 1000000000000
     },
     {
-      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_toothpick3_3s.txt",
-      "hash": "b5f98419c43c578806a7aa1d7c5b5d169f7bcfde0d26093b9a31d593b41d46a1",
-      "title": "FPVCycle Toothpick 3 3s | mouseFPV",
+      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_ImpuseRC_Apex_tune.txt",
+      "hash": "aacea6dd698c1a77ccbe4057e73d6d4391b2444ca08346b11717ca944ebab886",
+      "title": "ImpulseRC Apex 5\" | mouseFPV",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
       "status": "EXPERIMENTAL",
+      "keywords": [
+        "Apex",
+        "ImpulseRC",
+        "5\"",
+        "5in",
+        "5 inch"
+      ],
+      "author": "mouseFPV",
+      "force_options_review": true,
+      "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/mouse_fpv/mouseFPV_toothpick3_3s.txt",
+      "hash": "a60e270590017ffb0c66737809e6a4b00516c59f83c454f10f08a6179a24980b",
+      "title": "FPVCycle Toothpick 3 3s | mouseFPV",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "TUNE",
+      "status": "COMMUNITY",
       "keywords": [
         "FPVCycle TP3",
         "Toothpick",
@@ -4119,13 +4186,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_3_4_Inch_EasyTune.txt",
-      "hash": "750def3779cd33632862b0429a78ea9eec3ed030e1f3694bf71a814c1001dfd9",
+      "hash": "ed3f1334a45e5946e5d3fc1e458d8acecef924f0c7a005a4fe75afaa603af6ee",
       "title": "SupaflyFPV Freestyle 3/4 Inch",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -4142,13 +4209,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "a641a3c31c766b13b2fbf7304d67200b5f3aab97ab2c1dd8a94a27e19153b6c9",
+      "hash": "bf3c5cc37f2f9f54794d7eec66686e61dbb64dcd2109c4bd738dc82d61d2f872",
       "title": "SupaflyFPV Freestyle 5 Inch",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -4163,13 +4230,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_6_and_EasyTune.txt",
-      "hash": "37e3d259091dcf3d25e34045596d2313734cddeda39679c0c785d6fef95b1d5e",
+      "hash": "6e1b3cdde226675d3b23dbda844ddd42ac4b42c7b67a3604c2a6a0f938940e4a",
       "title": "SupaflyFPV Freestyle 6 Inch",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -4182,13 +4249,13 @@
     },
     {
       "fullPath": "presets/4.4/tune/supafly_fpv/SupaflyFPV_Freestyle_7_Inch_EasyTune.txt",
-      "hash": "a0de6ce911cdaa85789fe46a90fcedf1793e54b9655e5788625cf1e44b2d0aab",
+      "hash": "277501de265dfab1e0e0610f0e27e9a83d07713f1d84b1943af3fdc6441c68ef",
       "title": "SupaflyFPV Freestyle 7 Inch",
       "firmware_version": [
         "4.4"
       ],
       "category": "TUNE",
-      "status": "EXPERIMENTAL",
+      "status": "OFFICIAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -4459,7 +4526,7 @@
     },
     {
       "fullPath": "presets/4.4/vtx/DJI_FPV-WTF_MSP-OSD.txt",
-      "hash": "0bf01a93340826921756a44a006fbd46ff1fca8be2212a6d91d180ff1f3bbcdd",
+      "hash": "8b8d1da5c13f99ee0916e3242ca921f777dbcc82eda83228b3eba56baf7b4111",
       "title": "OSD for Fpv.wtf, DJI O3, Avatar HD",
       "firmware_version": [
         "4.4"
@@ -4482,14 +4549,15 @@
         "wtfos",
         "msp-osd",
         "displayport",
-        "msp"
+        "msp",
+        "sugarK"
       ],
       "author": "benlumley",
       "priority": 1000000
     },
     {
       "fullPath": "presets/4.4/vtx/HDZero.txt",
-      "hash": "e843067b3c45c9472f2a16c9aee6f2b4d56d9144258ed597c28a24376a695020",
+      "hash": "0638bc4866b880ccc2d98b1be2836899633d1e0dc1e0bd98ded7e5d9ff6b58c4",
       "title": "HDZero VTXs",
       "firmware_version": [
         "4.4"
