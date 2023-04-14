@@ -3593,6 +3593,21 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.4/modes/MixMasterU.txt",
+      "hash": "d92880a782a4e00408db100057b54ae10fae11105f8f5985f2e7eb0ff52994b7",
+      "title": "Default 4.4 Modes and Adjustment settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mixmasteru freestyle"
+      ],
+      "author": "MixMasterU",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/other/Street_League_motor_outputs.txt",
       "hash": "818ab0552ce3e055e2b3157551b5bc1eb31bd6c1a39ec54fb748f2cb378023e8",
       "title": "Street League Motor Output Limit Settings",
@@ -3677,7 +3692,7 @@
     },
     {
       "fullPath": "presets/4.4/rates/MixMasterU.txt",
-      "hash": "5c35567271fccf10bb75ff24c8abd94ad7982b8ed9adcd310086076336f24ad8",
+      "hash": "d574569af1ca176970e8e161c15d5b04dc522dc2fdc88684436ecebf0f53a4ce",
       "title": "MixMasterU",
       "firmware_version": [
         "4.3",
