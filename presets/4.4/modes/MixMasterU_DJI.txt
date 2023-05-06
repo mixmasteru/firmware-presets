@@ -1,0 +1,14 @@
+#$ TITLE: MixMasterU Modes and Adjustment settings for DJI Remote
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: mixmasteru freestyle dji
+#$ AUTHOR: MixMasterU
+#$ DESCRIPTION: modes and adjustment ranges 4.4
+
+# aux
+aux 0 0 0 1700 2100 0 0
+aux 1 1 2 900 1300 0 0
+aux 2 2 2 1300 1700 0 0
+aux 3 13 3 1700 2100 0 0
+aux 4 35 3 900 1300 0 0

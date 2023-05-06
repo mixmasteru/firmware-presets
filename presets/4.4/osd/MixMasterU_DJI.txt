@@ -1,0 +1,33 @@
+#$ TITLE: MixMasterU OSD settings for DJI
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: mixmasteru freestyle dji
+#$ AUTHOR: MixMasterU
+#$ DESCRIPTION: dji osd 4.4
+
+# osd
+set osd_cap_alarm = 1000
+set osd_alt_alarm = 400
+set osd_rssi_pos = 6202
+set osd_tim_2_pos = 266
+set osd_remaining_time_estimate_pos = 299
+set osd_flymode_pos = 2073
+set osd_current_pos = 6208
+set osd_mah_drawn_pos = 6178
+set osd_gps_speed_pos = 100
+set osd_gps_lon_pos = 67
+set osd_gps_lat_pos = 35
+set osd_gps_sats_pos = 4
+set osd_home_dir_pos = 9
+set osd_home_dist_pos = 12
+set osd_flight_dist_pos = 79
+set osd_compass_bar_pos = 41
+set osd_altitude_pos = 131
+set osd_warnings_pos = 6537
+set osd_avg_cell_voltage_pos = 6145
+set osd_battery_usage_pos = 40
+set osd_disarmed_pos = 6379
+set osd_rtc_date_time_pos = 8
+set osd_canvas_width = 30
+set osd_canvas_height = 13

@@ -356,6 +356,8 @@
       "meteor",
       "MinChan",
       "mixmasteru freestyle",
+      "mixmasteru freestyle dji",
+      "mixmasteru freestyle tx16s",
       "MM",
       "mode",
       "modes",
@@ -3620,15 +3622,45 @@
     },
     {
       "fullPath": "presets/4.4/modes/MixMasterU.txt",
-      "hash": "afe9ea2049fe5f8adcce8673e4823acc89a48d2e326be8d4f2d6561c9963199f",
-      "title": "MixMasterU Modes and Adjustment settings",
+      "hash": "6f6e59564cc8a671c789944c6371014e63de9ca184261622249b3f102a6a69e9",
+      "title": "MixMasterU Modes and Adjustment settings for TX16s",
       "firmware_version": [
         "4.4"
       ],
       "category": "MODES",
       "status": "COMMUNITY",
       "keywords": [
-        "mixmasteru freestyle"
+        "mixmasteru freestyle tx16s"
+      ],
+      "author": "MixMasterU",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/modes/MixMasterU_DJI.txt",
+      "hash": "1165f049174ed9155b6230ffc3d219bee13d391a3fc996efddf4141cfd824ff9",
+      "title": "MixMasterU Modes and Adjustment settings for DJI Remote",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mixmasteru freestyle dji"
+      ],
+      "author": "MixMasterU",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/MixMasterU_DJI.txt",
+      "hash": "3230649664d266e793f3dc1217ac1b95640fd1e14e4c0fabc8ee56e5fca097c3",
+      "title": "MixMasterU OSD settings for DJI",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mixmasteru freestyle dji"
       ],
       "author": "MixMasterU",
       "priority": 0

@@ -1,8 +1,8 @@
-#$ TITLE: MixMasterU Modes and Adjustment settings
+#$ TITLE: MixMasterU Modes and Adjustment settings for TX16s
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: mixmasteru freestyle
+#$ KEYWORDS: mixmasteru freestyle tx16s
 #$ AUTHOR: MixMasterU
 #$ DESCRIPTION: modes and adjustment ranges 4.4
 
