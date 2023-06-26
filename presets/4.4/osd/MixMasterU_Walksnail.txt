@@ -4,7 +4,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: mixmasteru freestyle walksnail HD
 #$ AUTHOR: MixMasterU
-#$ DESCRIPTION: dji osd 4.4
+#$ DESCRIPTION: walksnail osd 4.4
 
 # osd
 set osd_vbat_pos = 2145
