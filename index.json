@@ -359,6 +359,7 @@
       "mixmasteru freestyle dji",
       "mixmasteru freestyle misc",
       "mixmasteru freestyle tx16s",
+      "mixmasteru freestyle walksnail HD",
       "MM",
       "mode",
       "modes",
@@ -3662,6 +3663,21 @@
       "status": "COMMUNITY",
       "keywords": [
         "mixmasteru freestyle dji"
+      ],
+      "author": "MixMasterU",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/MixMasterU_Walksnail.txt",
+      "hash": "4fae906ba9262e212705d7a2d9f97b9895472c3782f81ff8784a5a883a8965a7",
+      "title": "MixMasterU OSD settings for Walksnail HD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mixmasteru freestyle walksnail HD"
       ],
       "author": "MixMasterU",
       "priority": 0
