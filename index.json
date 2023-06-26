@@ -357,6 +357,7 @@
       "MinChan",
       "mixmasteru freestyle",
       "mixmasteru freestyle dji",
+      "mixmasteru freestyle misc",
       "mixmasteru freestyle tx16s",
       "MM",
       "mode",
@@ -3622,7 +3623,7 @@
     },
     {
       "fullPath": "presets/4.4/modes/MixMasterU.txt",
-      "hash": "6f6e59564cc8a671c789944c6371014e63de9ca184261622249b3f102a6a69e9",
+      "hash": "6fec65ee55b4f32853b048ccf077056eb49e243e457b4ed864246fe15e186326",
       "title": "MixMasterU Modes and Adjustment settings for TX16s",
       "firmware_version": [
         "4.4"
@@ -3661,6 +3662,21 @@
       "status": "COMMUNITY",
       "keywords": [
         "mixmasteru freestyle dji"
+      ],
+      "author": "MixMasterU",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/MixMasterU.txt",
+      "hash": "66bf66617db71344a51535be30a80d3a0246860fe38f37a56ba1fd8ff507c5af",
+      "title": "MixMasterU Misc stuff",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "mixmasteru freestyle misc"
       ],
       "author": "MixMasterU",
       "priority": 0

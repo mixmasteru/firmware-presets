@@ -1,0 +1,17 @@
+#$ TITLE: MixMasterU Misc stuff
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: mixmasteru freestyle misc
+#$ AUTHOR: MixMasterU
+#$ DESCRIPTION: misc and adjustment 4.4
+
+# misc settings
+set dshot_bidir = ON
+set yaw_motors_reversed = ON
+set small_angle = 180
+set pilot_name = mixmasteru
+
+# beacon
+beacon RX_LOST
+beacon RX_SET
